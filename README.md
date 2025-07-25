@@ -1,6 +1,6 @@
 # Hi, I'm Uswa! 💫
 
-🎓 I'm a foundation computing student on my way to becoming a full-stack software developer.  
+🎓 I'm a computing student on my way to becoming a full-stack software developer.  
 💻 Currently learning Python, Git, and GitHub.  
 📌 Building mini projects like a To-do App, Calculator, and Rock-Paper-Scissors game!  
 🌟 My dream is to work remotely and run my own software house someday!
