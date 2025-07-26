@@ -2,8 +2,8 @@
 
 🎓 I'm a computing student on my way to becoming a full-stack software developer.  
 💻 Currently learning Python, Git, and GitHub.  
-📌 Developing foundational Python projects to enhance programming skills and build a strong GitHub portfolio
-🌟 Aspiring to build a successful career in tech with the goal of working remotely and eventually establishing my own software company
+📌 Developing foundational Python projects to enhance programming skills and build a strong GitHub portfolio.
+🌟 Aspiring to build a successful career in tech with the goal of working remotely and eventually establishing my own software company.
 
 Let's connect and grow together 💖
 
